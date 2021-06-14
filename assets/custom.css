@@ -1,0 +1,39 @@
+.box-detail{
+    margin: 4em;
+    height: 5vmax;
+}
+
+.detail-item{
+    padding: 4em;
+}
+
+.jumbotron{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(22,190,160,1) 0%, rgba(9,121,29,0.06766456582633051) 50%, rgba(255,136,0,1) 100%);
+}
+
+#carrotNavbar{
+    color: rgb(255, 166, 0);
+}
+
+#mitraisNavbar{
+    color: rgb(132, 0, 255);
+}
+
+mark.carrot {
+    color:#f15006;
+    background: none;
+}
+
+mark.mitrais {
+    color:#5800a0;
+    background: none;
+}
+
+.box-atas-dashboard{
+    margin: 4em;
+}
+
+.navbar-jumbo{
+    color: white;
+}
